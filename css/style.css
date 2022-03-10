@@ -1,0 +1,40 @@
+@font-face{
+    font-family: Helvetica-Neue-Bold;
+
+    /*Caso a fonte esteja na mesma pasta*/
+    src: url("fonts/Helvetica-Neue-Bold_22498.ttf");
+}
+
+.bg-header{
+    background-color: #333f50;
+}
+
+h1 {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 35pt;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 27pt;
+    color: #212128;
+    font-weight: bold;
+}
+
+.img-bg{
+    background-image: url("logo-fundo.png");
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+.bg-body{
+    background-color: #f0eeee;
+}
+
+p {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 20pt;
+
+}
